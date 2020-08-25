@@ -1,0 +1,94 @@
+.hero-section {
+    background-color: transparent;
+}
+.jumbotron {
+    background-color: white !important;
+    /* border: 2px solid black;
+    border-radius: 0 !important; */
+}
+.reg-button {
+    border: 1px solid red;
+    border-radius: 50px;
+    background-color: #d9534f;
+    color: white;
+    width: 12rem;
+}
+.pelajari-button {
+    border: 1px solid red;
+    border-radius: 50px;
+    background-color: white;
+    color: #d9534f;
+    width: 12rem;
+}
+.berlangganan {
+    background-color: whitesmoke;
+}
+.card {
+    padding: 1rem;
+    background-color: white !important;
+    border-radius: 25px !important;
+    height: 23rem
+}
+.card-title {
+    color: red;
+    font-weight: bold;
+}
+.berlangganan > btn {
+    border-radius: 5px;
+}
+.card-package {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card-package > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+}
+.package-price {
+    font-weight: 900;
+    font-size: 2rem;
+}
+.img-package-benefit {
+    width: 1.8rem;
+}
+.package-benefit-container {
+    text-align: left;
+    margin-top: .5rem;
+}
+.aku-btn {
+    border-radius: 50px !important;
+    width: 80%;
+    margin-top: 2rem;
+}
+footer {
+    font-size: large;
+    color: whitesmoke;
+    background-color: #d9534f;
+    height: 3rem;
+    text-align: center;
+    padding: 10px
+}
+.input-container {
+    border-radius: 50px;
+    border: 2px solid red;
+    margin: 0px 0px 15px 0px !important;
+}
+.submit-btn {
+    border-radius: 50px !important;
+}
+.p-register {
+    font-size: .8rem !important;
+    text-align: center;
+}
+.a-register {
+    font-weight: bold;
+    color: red;
+}
+.adad {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}

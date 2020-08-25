@@ -1,0 +1,10 @@
+// Action types for Loginform Reducer
+export const INPUT_LOGIN_TXT = "INPUT_LOGIN_TXT"
+export const LOADING_LOGIN = "LOADING_LOGIN"
+export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS"
+export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL"
+
+// Action types for dashboard
+export const LOADING_DATA_PENJUALAN = "LOADING_DATA_PENJUALAN"
+export const INIT_DATA_PENJUALAN_SUCCESS = "INIT_DATA_PENJUALAN_SUCCESS"
+export const INIT_DATA_PENJUALAN_FAIL = "INIT_DATA_PENJUALAN_FAIL"
